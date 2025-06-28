@@ -1,0 +1,21 @@
+body{
+  background-color: rgb(134, 147, 248);
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+button{
+  background-color: rgb(100, 102, 242);
+  margin-left: 5px;
+  height: 40px;
+  
+}
+
+input{
+  background-color: aliceblue;
+  color: black;
+  border-radius: 4px;
+  height: 25px;
+}
